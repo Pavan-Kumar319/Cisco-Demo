@@ -23,9 +23,8 @@ WebUI.navigateToUrl('https://www.signulu.com/')
 
 WebUI.click(findTestObject('Object Repository/Page_Signulu - A Secure Electronic Signatur_1c93ea/a_Pricing'))
 
-WebUI.mouseOver(findTestObject('Page_Signulu - A Secure Electronic Signature Solution for Your Business/a_Industry Solutions'))
-
-WebUI.click(findTestObject('Object Repository/Page_Signulu Pricing - Affordable eSignature Plans/a_Manufacturing'))
+WebUI.click(findTestObject('Object Repository/Page_Signulu Pricing - Affordable eSignature Plans/a_Contact'))
 
 WebUI.closeBrowser()
+
 

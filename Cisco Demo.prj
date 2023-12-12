@@ -4,9 +4,10 @@
    <name>Cisco Demo</name>
    <tag></tag>
    <UUID>ff7ca7ee-3fe8-403c-a8eb-d3ea2cc00f53</UUID>
+   <freeLicense>false</freeLicense>
    <migratedVersion>5.9.0</migratedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
-   <projectFileLocation>C:\Users\pavan\Katalon Studio\Cisco Demo\Cisco Demo.prj</projectFileLocation>
+   <projectFileLocation>C:\Users\rakeerth\git\Cisco-Demo\Cisco Demo.prj</projectFileLocation>
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>
